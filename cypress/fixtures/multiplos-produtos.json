@@ -1,0 +1,28 @@
+[
+    {
+        "produto": "Moletom com capuz \"Se você acha que nada é impossível...\"",
+        "preco": "59.00",
+        "descricao": "Moletom com capuz preto fabricado com tecido de alta qualidade e caimento impecável."
+    },
+
+    {
+        "produto": "Ecobag \"Na minha máquina funciona\"",
+        "preco": "30.00",
+        "descricao": "Eco bag fabricada em tecido 100% algodão cru, com dimensões 30 x 40 cm."
+    },
+
+    {
+        "produto": "Moletom com capuz \"Const\"",
+        "preco": "59.00",
+        "descricao": "Moletom com capuz branco fabricado com tecido de alta qualidade e caimento impecável."
+    },
+
+    {
+        "produto": "Xícara Const",
+        "preco": "40.00",
+        "descricao": "Xícara em porcelana. Capacidade: 270ml."
+    }
+
+
+
+]
