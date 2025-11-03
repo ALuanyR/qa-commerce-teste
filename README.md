@@ -1,6 +1,6 @@
 # 🧪 QA Commerce Teste
 
-Projeto desenvolvido por **Luany Rudic dos Santos** como parte dos estudos no curso de **Qualidade de Software** da **Impacta Digital**.
+Projeto desenvolvido como parte dos estudos no curso de **Qualidade de Software** da **Impacta Digital**.
 
 Este repositório tem como objetivo demonstrar **testes automatizados end-to-end** utilizando o **Cypress**, simulando o comportamento real de um usuário em um ambiente de e-commerce.
 
